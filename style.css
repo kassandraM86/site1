@@ -24,13 +24,13 @@ header{
 .logo{
     font-weight: 700;
     font-size: 50px;
-    color: #9370db;
+    color: #ffffff;
 }
 .navlist{
     display: flex;
 }
 .navlist a{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     margin-left: 60px;
     font-size: 20px;
     font-weight: 600;
@@ -38,11 +38,19 @@ header{
     transition: all .55s ease;
 }
 .navlist a:hover{
-    border-bottom: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(255, 253, 253);
 }
 #menu-icon{
-    color: rgb(0, 0, 0);
-    font-size: 35px;
+    color: rgb(255, 245, 245);
+    font-size: 35px;Home
+    jogar
+    configurar
+    multijogador
+    beella
+    Esta Assasina cruel e sanguinaria beella, tem poderes de teletransporte sua origem e de Exoterra ela foi criada como um experimento genético e a gêmea má da princesa katana, vestindo um traje similar ao dela na cor magenta
+    
+    CONFIGURAR ,GAMEPLAY
+    ￼
     z-index: 10001;
     cursor: pointer;
     display: none;
@@ -51,7 +59,7 @@ header{
     height: 100%;
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(235.59deg,#000000 0%,#4e0e0e 28.53%, #500909 75.52%);
+    background: linear-gradient(235.59deg,#000000 0%,#4e0e0e 28.53%, #360909 75.52%);
     position: relative;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -64,7 +72,7 @@ section{
 .hero-text h5{
     font-size: 14px;
     font-weight: 400;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     margin-bottom: 40px;
 }
 .hero-text h1{
@@ -92,7 +100,7 @@ section{
 }
 .hero-text a{
     display: inline-block;
-    color: white;
+    color: rgb(255, 249, 249);
     background: #000000;
     border: 1px solid transparent;
     padding: 12px 30px;
@@ -130,7 +138,7 @@ section{
     transition: all .50s ease;
 }
 .icons i:hover{
-    color: #1a3857;
+    color: #ffffff;
     transform: translateY(-5px);
 }
 .scroll-down{
@@ -195,7 +203,15 @@ section{
     }
     .hero-img img {
         width: 560px;
-        height: auto;
+        height: auto;Home
+        About
+        Clans
+        Contact
+        beella
+        Esta Assasina cruel e sanguinaria beella, tem poderes de teletransporte sua origem e de Exoterra ela foi criada como um experimento genético e a gêmea má da princesa katana, vestindo um traje similar ao dela na cor magenta
+        
+        CONFIGURAR GAMEPLAY
+        ￼
     }
     .hero{
         height: 100%;
@@ -214,10 +230,11 @@ section{
         display: block;
     }
     .navlist{
-        position: absolute;
-        top: 100%;
-        right: -100%;
-        width: 200px;
+        beella
+        Esta Assasina cruel e sanguinaria beella, tem poderes de teletransporte sua origem e de Exoterra ela foi criada como um experimento genético e a gêmea má da princesa katana, vestindo um traje similar ao dela na cor magenta
+        
+        CONFIGURAR ,GAMEPLAY
+        ￼ width: 200px;
         height: 30vh;
         background: #290746;
         display: flex;
